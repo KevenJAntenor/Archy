@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <br>
   <img alt="Archy" style="border-radius: 15px;" src="https://storage.googleapis.com/froge-public-bucket-prod/archy.jpg" width="300px">
   <h1>🐸 Archy 🐸</h1>
